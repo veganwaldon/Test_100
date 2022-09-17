@@ -8,48 +8,27 @@
 ## Задание 2.
 Вывести id объектов в том порядке, который соответствует arrayValue. Пояснение: id объектов с arrayValue == 'one' выводятся первыми, с arrayValue === 'four' выводятся последними.
 
-// const customObjectsArray = [{
-
-// id: 'a28a27b4-1237-11ed-861d-0242ac120002',
-
-// arrayValue: 'one',
-
-// }, {
-
-// id: 'a28a296c-1237-11ed-861d-0242ac120002',
-
-// arrayValue: 'four',
-
-// }, {
-
-// id: 'a28a2a52-1237-11ed-861d-0242ac120002',
-
-// arrayValue: 'three',
-
-// }, {
-
-// id: 'a28a2b2e-1237-11ed-861d-0242ac120002',
-
-// arrayValue: 'three',
-
-// }, {
-
-// id: 'a28a2dae-1237-11ed-861d-0242ac120002',
-
-// arrayValue: 'three',
-
-// }, {
-
-// id: 'a28a3132-1237-11ed-861d-0242ac120002',
-
-// arrayValue: 'two',
-
-// }, {
-
-// id: 'a28a320e-1237-11ed-861d-0242ac120002',
-
-// arrayValue: 'two',
-
-// }
-
-// ];
+```
+const customObjectsArray = [{
+id: 'a28a27b4-1237-11ed-861d-0242ac120002',
+arrayValue: 'one',
+}, {
+id: 'a28a296c-1237-11ed-861d-0242ac120002',
+arrayValue: 'four',
+}, {
+id: 'a28a2a52-1237-11ed-861d-0242ac120002',
+arrayValue: 'three',
+}, {
+id: 'a28a2b2e-1237-11ed-861d-0242ac120002',
+arrayValue: 'three',
+}, {
+id: 'a28a2dae-1237-11ed-861d-0242ac120002',
+arrayValue: 'three',
+}, {
+id: 'a28a3132-1237-11ed-861d-0242ac120002',
+arrayValue: 'two',
+}, {
+id: 'a28a320e-1237-11ed-861d-0242ac120002',
+arrayValue: 'two',
+}];
+```
